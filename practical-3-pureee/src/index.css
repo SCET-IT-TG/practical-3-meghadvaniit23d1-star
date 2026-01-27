@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  max-width: 500px;
+  margin: auto;
+}
+
+.counter button {
+  padding: 6px 12px;
+}
+
+.count {
+  margin: 0 10px;
+}
+
+.tweet textarea {
+  width: 100%;
+  height: 80px;
+}
+
+.tweet button {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.red {
+  color: red;
+}
+
+.theme {
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 6px;
+}
+
+.theme.light {
+  background: white;
+  color: black;
+}
+
+.theme.dark {
+  background: #222;
+  color: white;
+}
